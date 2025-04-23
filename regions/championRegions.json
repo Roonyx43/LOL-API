@@ -1,827 +1,662 @@
-[
-  {
-    "name": "aatrox",
+{
+  "aatrox": {
     "region": "desconhecida",
     "url": ""
   },
-  {
-    "name": "ahri",
+  "ahri": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "akali",
+  "akali": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "akshan",
+  "akshan": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "alistar",
+  "alistar": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "ambessa",
+  "ambessa": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "amumu",
+  "amumu": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "anivia",
+  "anivia": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "annie",
+  "annie": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "aphelios",
+  "aphelios": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "ashe",
+  "ashe": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "aurelionsol",
+  "aurelionsol": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "azir",
+  "azir": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "bard",
+  "bard": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "belveth",
+  "belveth": {
     "region": "void",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/void/leagueclient/flag_void_3_profile.png"
   },
-  {
-    "name": "blitzcrank",
+  "blitzcrank": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "brand",
+  "brand": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "braum",
+  "braum": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "caitlyn",
+  "caitlyn": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "camille",
+  "camille": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "cassiopeia",
+  "cassiopeia": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "chogath",
+  "chogath": {
     "region": "void",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/void/leagueclient/flag_void_3_profile.png"
   },
-  {
-    "name": "corki",
+  "corki": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "darius",
+  "darius": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "diana",
+  "diana": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "drmundo",
+  "drmundo": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "draven",
+  "draven": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "ekko",
+  "ekko": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "elise",
+  "elise": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "evelynn",
+  "evelynn": {
     "region": "desconhecida",
     "url": ""
   },
-  {
-    "name": "ezreal",
+  "ezreal": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "fiddlesticks",
+  "fiddlesticks": {
     "region": "desconhecida",
     "url": ""
   },
-  {
-    "name": "fiora",
+  "fiora": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "fizz",
+  "fizz": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "galio",
+  "galio": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "gangplank",
+  "gangplank": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "garen",
+  "garen": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "gnar",
+  "gnar": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "gragas",
+  "gragas": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "graves",
+  "graves": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "gwen",
+  "gwen": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "hecarim",
+  "hecarim": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "heimerdinger",
+  "heimerdinger": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "illaoi",
+  "illaoi": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "irelia",
+  "irelia": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "ivern",
+  "ivern": {
     "region": "desconhecida",
     "url": ""
   },
-  {
-    "name": "janna",
+  "janna": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "jarvaniv",
+  "jarvaniv": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "jax",
+  "jax": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "jayce",
+  "jayce": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "jhin",
+  "jhin": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "jinx",
+  "jinx": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "ksante",
+  "ksante": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "kaisa",
+  "kaisa": {
     "region": "void",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/void/leagueclient/flag_void_3_profile.png"
   },
-  {
-    "name": "kalista",
+  "kalista": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "karma",
+  "karma": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "karthus",
+  "karthus": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "kassadin",
+  "kassadin": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "katarina",
+  "katarina": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "kayle",
+  "kayle": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "kayn",
+  "kayn": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "kennen",
+  "kennen": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "khazix",
+  "khazix": {
     "region": "void",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/void/leagueclient/flag_void_3_profile.png"
   },
-  {
-    "name": "kindred",
+  "kindred": {
     "region": "desconhecida",
     "url": ""
   },
-  {
-    "name": "kled",
+  "kled": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "kogmaw",
+  "kogmaw": {
     "region": "void",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/void/leagueclient/flag_void_3_profile.png"
   },
-  {
-    "name": "leblanc",
+  "leblanc": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "leesin",
+  "leesin": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "leona",
+  "leona": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "lillia",
+  "lillia": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "lissandra",
+  "lissandra": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "lucian",
+  "lucian": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "lulu",
+  "lulu": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "lux",
+  "lux": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "malphite",
+  "malphite": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "malzahar",
+  "malzahar": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "maokai",
+  "maokai": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "masteryi",
+  "masteryi": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "mel",
+  "mel": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "milio",
+  "milio": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "missfortune",
+  "missfortune": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "mordekaiser",
+  "mordekaiser": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "morgana",
+  "morgana": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "nami",
+  "nami": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "nasus",
+  "nasus": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "nautilus",
+  "nautilus": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "neeko",
+  "neeko": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "nidalee",
+  "nidalee": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "nilah",
+  "nilah": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "nocturne",
+  "nocturne": {
     "region": "desconhecida",
     "url": ""
   },
-  {
-    "name": "nunu",
+  "nunu": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "olaf",
+  "olaf": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "orianna",
+  "orianna": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "ornn",
+  "ornn": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "pantheon",
+  "pantheon": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "poppy",
+  "poppy": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "pyke",
+  "pyke": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "qiyana",
+  "qiyana": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "quinn",
+  "quinn": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "rakan",
+  "rakan": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "rammus",
+  "rammus": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "reksai",
+  "reksai": {
     "region": "void",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/void/leagueclient/flag_void_3_profile.png"
   },
-  {
-    "name": "rell",
+  "rell": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "renataglasc",
+  "renataglasc": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "renekton",
+  "renekton": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "rengar",
+  "rengar": {
     "region": "ixtal",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ixtal/leagueclient/flag_ixtal_3_profile.png"
   },
-  {
-    "name": "riven",
+  "riven": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "rumble",
+  "rumble": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "ryze",
+  "ryze": {
     "region": "desconhecida",
     "url": ""
   },
-  {
-    "name": "samira",
+  "samira": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "sejuani",
+  "sejuani": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "senna",
+  "senna": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "seraphine",
+  "seraphine": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "sett",
+  "sett": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "shaco",
+  "shaco": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "shen",
+  "shen": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "shyvana",
+  "shyvana": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "singed",
+  "singed": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "sion",
+  "sion": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "sivir",
+  "sivir": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "skarner",
+  "skarner": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "sona",
+  "sona": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "soraka",
+  "soraka": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "swain",
+  "swain": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "sylas",
+  "sylas": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "syndra",
+  "syndra": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "tahmkench",
+  "tahmkench": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "taliyah",
+  "taliyah": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "talon",
+  "talon": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "taric",
+  "taric": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "teemo",
+  "teemo": {
     "region": "bandlecity",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bandlecity/leagueclient/flag_bandlecity_3_profile.png"
   },
-  {
-    "name": "thresh",
+  "thresh": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "tristana",
+  "tristana": {
     "region": "bandlecity",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bandlecity/leagueclient/flag_bandlecity_3_profile.png"
   },
-  {
-    "name": "trundle",
+  "trundle": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "tryndamere",
+  "tryndamere": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "twistedfate",
+  "twistedfate": {
     "region": "bilgewater",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bilgewater/leagueclient/flag_bilgewater_3_profile.png"
   },
-  {
-    "name": "twitch",
+  "twitch": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "udyr",
+  "udyr": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "urgot",
+  "urgot": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "varus",
+  "varus": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "vayne",
+  "vayne": {
     "region": "demacia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/demacia/leagueclient/flag_demacia_3_profile.png"
   },
-  {
-    "name": "veigar",
+  "veigar": {
     "region": "bandlecity",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bandlecity/leagueclient/flag_bandlecity_3_profile.png"
   },
-  {
-    "name": "velkoz",
+  "velkoz": {
     "region": "void",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/void/leagueclient/flag_void_3_profile.png"
   },
-  {
-    "name": "vex",
+  "vex": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "vi",
+  "vi": {
     "region": "piltover",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/piltover/leagueclient/flag_piltover_3_profile.png"
   },
-  {
-    "name": "viego",
+  "viego": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "viktor",
+  "viktor": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "vladimir",
+  "vladimir": {
     "region": "noxus",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
   },
-  {
-    "name": "volibear",
+  "volibear": {
     "region": "freljord",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/freljord/leagueclient/flag_freljord_3_profile.png"
   },
-  {
-    "name": "warwick",
+  "warwick": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "wukong",
+  "wukong": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "xayah",
+  "xayah": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "xerath",
+  "xerath": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "xinzhao",
+  "xinzhao": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "yasuo",
+  "yasuo": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "yone",
+  "yone": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "yorick",
+  "yorick": {
     "region": "shadowisles",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shadowisles/leagueclient/flag_shadowisles_3_profile.png"
   },
-  {
-    "name": "yuumi",
+  "yuumi": {
     "region": "bandlecity",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bandlecity/leagueclient/flag_bandlecity_3_profile.png"
   },
-  {
-    "name": "zac",
+  "zac": {
     "region": "zaun",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
-  {
-    "name": "zed",
+  "zed": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   },
-  {
-    "name": "zeri",
+  "zeri": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "ziggs",
+  "ziggs": {
     "region": "bandlecity",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/bandlecity/leagueclient/flag_bandlecity_3_profile.png"
   },
-  {
-    "name": "zilean",
+  "zilean": {
     "region": "shurima",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/shurima/leagueclient/flag_shurima_3_profile.png"
   },
-  {
-    "name": "zoe",
+  "zoe": {
     "region": "targon",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
-  {
-    "name": "zyra",
+  "zyra": {
     "region": "ionia",
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/ionia/leagueclient/flag_ionia_3_profile.png"
   }
-]
+}
