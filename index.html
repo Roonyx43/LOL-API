@@ -18,7 +18,7 @@
 </head>
 <body>
 
-    <div class="container bg-dark p-3 rounded shadow-sm mt-5 mb-5">
+    <div class="container bg-dark p-3 rounded shadow-sm mt-5 mb-5 bg-opacity-75 border" >
         <div class="input-group mt-3 ">
 
             <input type="text" class="form-control shadow-none user-select-none" autocomplete="off" placeholder="Digite seu nome no jogo" id="gameName">
@@ -32,23 +32,10 @@
 
         <button class="btn btn-outline-light mt-3 w-100" id="consultar">Enviar</button>
 
-        <div class="container mt-3 mb-5 p-4 border rounded d-flex flex-column justify-content-center align-items-center shadow-sm bg-dark-subtle">
+        <div class="container mt-3 mb-5 p-4 border rounded d-flex flex-column justify-content-center align-items-center shadow-sm bg-dark-subtle " style="--bs-bg-opacity: .5;">
             <div class="row" id="cardChampions" style="max-width: 100%"></div>
             <div class="spinner-border" role="status" id="loadingSpinner" style="display: none;">
                 <span class="visually-hidden">Carregando...</span>
-            </div>
-        </div>
-
-        <div class="modal fade" id="championModal" tabindex="-1" aria-labelledby="championModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg modal-dialog-centered">
-                <div class="modal-content" id="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="championModalLabel">Campeão</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
-                    </div>
-                    <div class="modal-body" id="championModalBody">
-                    </div>
-                </div>
             </div>
         </div>
     </div>
