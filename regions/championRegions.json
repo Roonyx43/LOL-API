@@ -100,8 +100,8 @@
     "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/targon/leagueclient/flag_targon_3_profile.png"
   },
   "drmundo": {
-    "region": "noxus",
-    "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/noxus/leagueclient/flag_noxus_3_profile.png"
+    "region": "zaun",
+    "url": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summonerbanners/flags/zaun/leagueclient/flag_zaun_3_profile.png"
   },
   "draven": {
     "region": "noxus",
