@@ -5,7 +5,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const id = urlParams.get('id');
 const region = urlParams.get('region')
 
-const backgroundImageUrl = `https://raw.githubusercontent.com/Roonyx43/LOL-API/refs/heads/main/assets/regions/piltolver/piltolver_bg_0.jpg`
+const backgroundImageUrl = `https://raw.githubusercontent.com/Roonyx43/LOL-API/refs/heads/main/assets/regions/${region}/${region}_bg_0.jpg`
 
 // Definir o background do body
 document.body.style.backgroundImage = `url(${backgroundImageUrl})`;
