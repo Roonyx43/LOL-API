@@ -1,5 +1,5 @@
 
-const apiKey = 'RGAPI-a68498f7-f474-4db5-9c8c-b5a304fe6189'
+const apiKey = 'RGAPI-c958a223-cd04-4aa5-9d05-62bbb0248fd1'
 let championsName = []
 
 async function getPUUID(nickname, tag) {
@@ -64,6 +64,7 @@ async function getChampionsMastery() {
         const percMastery = ((championId.curMastery - inicioMastery) / (fimMastery - inicioMastery)) * 100
 
         const objChamps = {
+            key: resultado[0].key,
             id: resultado[0].id,
             name: resultado[0].name,
             title: resultado[0].title,
@@ -99,7 +100,7 @@ async function getChampionsMastery() {
         let masteryLevel = champ.currentLevel > 9 ? '10.png' : `${champ.currentLevel}.png`
     
         containerChamps.innerHTML += `
-            <div class="col-md-3 mb-4" onclick="animateAndRedirect(this, '${champ.id}', '${champ.regionId}')" style="cursor: pointer;">
+            <div class="col-md-3 mb-4" onclick="animateAndRedirect(this, '${champ.id}', '${champ.regionId}', ${champ.key})" style="cursor: pointer;">
                 <div class="card shadow-sm animate__animated animate__fadeIn">
                     <div class="card-header" style="height: 50%">
                         <div class="d-flex justify-content-center">
@@ -139,7 +140,7 @@ async function getChampionsMastery() {
     
 }
 
-function animateAndRedirect(element, champId, region) {
+function animateAndRedirect(element, champId, region, key) {
     // Evita múltiplos cliques
     element.style.pointerEvents = 'none';
 
@@ -153,8 +154,10 @@ function animateAndRedirect(element, champId, region) {
         transitionDiv.style.pointerEvents = 'auto'; // bloqueia interações
         transitionDiv.style.opacity = '1';
 
+        
+
         setTimeout(() => {
-            window.location.href = `campeao.html?id=${champId}&region=${region}`;
+            window.location.href = `campeao.html?id=${champId}&region=${region}&key=${key}`;
         }, 500);
     },  { once: true });
 }
